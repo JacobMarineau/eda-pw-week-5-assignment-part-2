@@ -1,0 +1,22 @@
+
+.heading {
+    background-color: rgb(88, 80, 58);
+    color:rgb(200, 224, 245);
+    text-align: center;
+}
+
+.content {
+    background-color: lightgray;
+}
+
+.backImg {
+    background-image: url(record.png);
+    background-repeat: repeat;
+}
+body {
+    margin: 0;
+}
+
+.padding {
+    padding: 1em;
+}
