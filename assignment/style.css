@@ -1,5 +1,19 @@
-header {
+.heading {
     background-color: rgb(130, 244, 126);
     color:rgb(92, 41, 45);
     text-align: center;
+}
+
+.things {
+    background-color: lightgray;
+    padding: 1em;
+}
+
+.backImg {
+    background-image: url(record.png);
+    background-repeat: repeat;
+}
+
+body {
+    margin: 0;
 }
